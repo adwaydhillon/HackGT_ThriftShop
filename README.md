@@ -1,16 +1,16 @@
 HackGT
 ======
 
-Repo for Georgia Tech's HackGT - Fall 2014
+Thrift Shop @ HackGT - Fall 2014
 
-Ideas
+Idea
 -----
 
-- Auto Food Ordering - Locu API / Groupon API - No wait ordering.
-- Travel Journal - TripAdvisor/Yelp integration - Organized photos with captions/stories.
-- Food Buddies - Yelp integration - Find people to eat with. 
-- Snapchat/Twilio Flashcards for studying/quizzes. ==
-- Homework integration into Calendar.
-- eBay - GT Thrift Shop ==
-- Georgia Tech Course Listing Website
+Currently, students sell their items (books, furniture etc), through a Facebook group called GT Thrift Shop (https://www.facebook.com/groups/199456403537988/?ref=br_tf). This can get inefficient due to the lack of a catalog and search functionality. The aim of the new Thrift Shop is to use eBay's Finding API, along with the Milo API to create this service for Georgia Tech students.
+
+Features
+--------
+
+- Selling functionality - Make a post on eBay (visible only to GT students (radius-search?)) through the app.
+- Buying functionality - Catalog of items being sold, organized in departments. Bidding.
 
