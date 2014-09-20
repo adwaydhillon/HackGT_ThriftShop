@@ -9,6 +9,8 @@ Ideas
 - Auto Food Ordering - Locu API / Groupon API - No wait ordering.
 - Travel Journal - TripAdvisor/Yelp integration - Organized photos with captions/stories.
 - Food Buddies - Yelp integration - Find people to eat with. 
-- Snapchat Flashcards for studying.
+- Snapchat/Twilio Flashcards for studying/quizzes. ==
 - Homework integration into Calendar.
+- eBay - GT Thrift Shop ==
+- Georgia Tech Course Listing Website
 
