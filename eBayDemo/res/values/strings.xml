@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eBay Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ebay_source_name">eBay</string> 
+    <string name="ebay_appid_sandbox">AdwayDhi-e0ac-4f2f-8858-4eeac535c143</string> 
+    <string name="ebay_appid_production">AdwayDhi-9f67-40e3-aaf0-a30042aea27e</string>
+    <string name="ebay_wsurl_sandbox">http://sandbox.ebay.com/</string>
+    <string name="ebay_wsurl_production">http://svcs.ebay.com/</string>
+    <string name="ebay_tag_findItemsByKeywordsResponse">findItemsByKeywordsResponse</string>
+    <string name="ebay_tag_searchResult">searchResult</string>
+    <string name="search_layout_caption">Search</string>
+    <string name="ebay_tag_item">item</string>
+    <string name="ebay_tag_itemId">itemId</string>
+    <string name="ebay_tag_title">title</string>
+    <string name="ebay_tag_galleryURL">galleryURL</string>
+    <string name="ebay_tag_viewItemURL">viewItemURL</string>
+    <string name="ebay_tag_location">location</string>
+    <string name="ebay_tag_sellingStatus">sellingStatus</string>
+    <string name="ebay_tag_currentPrice">currentPrice</string>
+    <string name="ebay_tag_value">__value__</string>
+    <string name="ebay_tag_currencyId">\@currencyId</string>
+    <string name="ebay_tag_shippingInfo">shippingInfo</string>
+    <string name="ebay_tag_shippingServiceCost">shippingServiceCost</string>
+    <string name="ebay_tag_listingInfo">listingInfo</string>
+    <string name="ebay_tag_listingType">listingType</string>
+    <string name="ebay_tag_buyItNowAvailable">buyItNowAvailable</string>
+    <string name="ebay_tag_startTime">startTime</string>
+    <string name="ebay_tag_endTime">endTime</string>
+    <string name="ebay_value_auction">auction</string>
+    <string name="ebay_value_storeinventory">StoreInventory</string>
+    <string name="ebay_value_fixedprice">StoreInventory</string>
+    <string name="ebay_value_true">true</string>
+</resources>
