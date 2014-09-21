@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    
+    tools:context="com.example.thriftshop.MainActivity$PlaceholderFragment" >
+    
+ 
+    <ListView
+    android:id="@+id/listview2"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="100dp"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:clipToPadding="false"
+    android:scrollbarStyle="outsideOverlay" 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+    android:divider="@android:color/transparent"
+  	android:dividerHeight="10.0dp"
+    /> 
+
+</LinearLayout>
