@@ -1,7 +1,8 @@
-HackGT
-======
+HackGT Fall 2014
+================
 
-Thrift Shop @ HackGT - Fall 2014
+GT Thrift Shop @ HackGT - Fall 2014
+Submission: http://challengepost.com/software/gt-thrift-shop
 
 Idea
 -----
@@ -11,6 +12,12 @@ Currently, students sell their items (books, furniture etc), through a Facebook 
 Features
 --------
 
-- Selling functionality - Make a post on eBay (visible only to GT students (radius-search?)) through the app.
-- Buying functionality - Catalog of items being sold, organized in departments. Bidding.
+- Selling functionality - Make a post on eBay (visible only to GT students (limit by location)) through the app. Currently implemented by passing sellerIDs registered with app, and restricting results to those sellers.
+- Buying functionality - Catalog of items being sold, organized in departments. Bidding. Buy it Now.
 
+ebay API Usage
+--------------
+
+- Trading API: AddItem, GetItem, GetSellerList
+- Finding API: findItemsByKeywords, findItemsAdvanced
+- Sandbox usage for test transactions and demo listings.
